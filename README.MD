@@ -1,5 +1,6 @@
 # Project work "How to learn" (Yandex practicum - Course “Web Developer”)
 
+https://emoxowa.github.io/how-to-learn/
 
 ## Objective:
 Layout of a single-page website according to the brief.
