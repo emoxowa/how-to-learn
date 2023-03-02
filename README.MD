@@ -1,4 +1,5 @@
-# Project Work: "How to Learn" (Yandex Practicum - Course: Web Developer)
+#  📚 Educational project: "How to Learn" 
+[Yandex Practicum - Course "Web Developer"](https://practicum.yandex.ru/web/)
 
 ## Introduction
 This repository contains the project work titled "How to Learn" which is a single-page website that was developed as part of the Yandex Practicum's Web Developer course. The primary objective of the project is to practice the skills that were acquired during the course.
@@ -15,8 +16,8 @@ The language used for the website is Russian.
 ## Conclusion
 This project has provided an opportunity to apply the acquired web development skills and knowledge to create a well-structured and aesthetically pleasing website. The project has been developed using the latest web development technologies and methodologies, making it a valuable learning experience for aspiring web developers.
 
-## Website Preview
-To preview the website, click on the following link: https://emoxowa.github.io/how-to-learn/
+## Website link
+To open the website, click on the following link: https://emoxowa.github.io/how-to-learn/
 
 ![gif](https://github.com/emoxowa/how-to-learn/blob/main/gif.gif)
 
