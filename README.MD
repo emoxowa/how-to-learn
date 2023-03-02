@@ -1,26 +1,22 @@
-# Project work "How to learn" (Yandex practicum - Course “Web Developer”)
+# Project Work: "How to Learn" (Yandex Practicum - Course: Web Developer)
 
-https://emoxowa.github.io/how-to-learn/
+## Introduction
+This repository contains the project work titled "How to Learn" which is a single-page website that was developed as part of the Yandex Practicum's Web Developer course. The primary objective of the project is to practice the skills that were acquired during the course.
 
-## Objective:
-Layout of a single-page website according to the brief.
+## Website Preview
+To preview the website, click on the following link: https://emoxowa.github.io/how-to-learn/
 
-This project is educational. Its purpose is to practice the acquired skills.
+## Project Objective
+The main objective of this project is to create a single-page website that is aligned with the project brief.
 
-------
+## Description
+The website is designed to contain 11 blocks, including the header and footer. The primary technologies utilized in the project include HTML5, CSS3, Flexbox, position, CSS-animation, CSS-transform, and iframe. The website has been developed using the Block Element Modifier (BEM) methodology.
 
-## Description:
+## Language
+The language used for the website is Russian.
 
-Website contains 11 blocks including header, footer.
-
-List of technologies used in the project:
- * HTML5
- * CSS3 (Flexbox, position, CSS-animation, CSS-transform, iframe)
- * BEM (Block Element Modifier methodology)
-
-The language of the website: Russian.
-
-------
+## Conclusion
+This project has provided an opportunity to apply the acquired web development skills and knowledge to create a well-structured and aesthetically pleasing website. The project has been developed using the latest web development technologies and methodologies, making it a valuable learning experience for aspiring web developers.
 
 
 
