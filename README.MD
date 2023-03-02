@@ -1,5 +1,4 @@
 #  📚 Educational project: "How to Learn" 
-[Yandex Practicum - Course "Web Developer"](https://practicum.yandex.ru/web/)
 
 ## Introduction
 This repository contains the project work titled "How to Learn" which is a single-page website that was developed as part of the Yandex Practicum's Web Developer course. The primary objective of the project is to practice the skills that were acquired during the course.
