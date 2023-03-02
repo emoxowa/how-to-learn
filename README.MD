@@ -12,6 +12,9 @@ The website is designed to contain 11 blocks, including the header and footer. T
 ## Language
 The language used for the website is Russian.
 
+## Project Status:
+This project is completed and is no longer being actively maintained.
+
 ## Conclusion
 This project has provided an opportunity to apply the acquired web development skills and knowledge to create a well-structured and aesthetically pleasing website. The project has been developed using the latest web development technologies and methodologies, making it a valuable learning experience for aspiring web developers.
 
