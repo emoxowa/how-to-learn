@@ -9,6 +9,13 @@ The main objective of this project is to create a single-page website that is al
 ## Description
 The website is designed to contain 11 blocks, including the header and footer. The primary technologies utilized in the project include HTML5, CSS3, Flexbox, position, CSS-animation, CSS-transform, and iframe. The website has been developed using the Block Element Modifier (BEM) methodology.
 
+## Instructions:
+To run this project on your local machine, please follow these instructions:
+
+1. Clone this repository: `git clone https://github.com/emoxowa/how-to-learn.git`.
+2. Open the project directory in your code editor.
+3. Open the `index.html` file in your web browser.
+
 ## Language
 The language used for the website is Russian.
 
